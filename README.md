@@ -18,4 +18,4 @@
 ![Excel](https://img.shields.io/badge/Excel-Advanced_Functions-teal)
 ![Data_Cleaning](https://img.shields.io/badge/Data_Cleaning-Preprocessing-blueviolet)
 
-[Let's Connect on LinkedIn!](www.linkedin.com/in/zachary-ceolin)
+[Let's Connect on LinkedIn!](https://www.linkedin.com/in/zachary-ceolin)
