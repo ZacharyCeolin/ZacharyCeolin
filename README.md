@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I’m Zach! 👋
 
-<!--
-**ZacharyCeolin/ZacharyCeolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🍹 Former hospitality pro now serving data insights instead of cocktails <br>
+🎓 Google-certified in BI and Data Analytics, with a Full Stack Development certificate from Toronto Metropolitan University <br>
+🛠️ Fluent in SQL, Python, R, Tableau, and Excel <br>
+📊 Into building dashboards, spotting trends, and turning data into visuals that pop <br>
+🌱 Always learning, always experimenting, and excited to grow in BI and analytics <br>
 
-Here are some ideas to get you started:
+### Skills & Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![SQL](https://img.shields.io/badge/SQL-Querying_&_Analysis-red)
+![Tableau](https://img.shields.io/badge/Tableau-Dashboarding_&_Visualization-orange)
+![Python](https://img.shields.io/badge/Python-Automation_&_Analysis-yellow)
+![pandas](https://img.shields.io/badge/pandas-Exploratory_Analysis-green)
+![matplotlib](https://img.shields.io/badge/matplotlib-Python_Visualization-brightgreen)
+![R](https://img.shields.io/badge/R-Data_Analysis_&_Visualization-lightblue)
+![ggplot2](https://img.shields.io/badge/ggplot2-Data_Visualization-blue)
+![Excel](https://img.shields.io/badge/Excel-Advanced_Functions-teal)
+![Data_Cleaning](https://img.shields.io/badge/Data_Cleaning-Preprocessing-blueviolet)
+
+[Let's Connect on LinkedIn!](www.linkedin.com/in/zachary-ceolin)
