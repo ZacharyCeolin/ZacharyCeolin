@@ -1,10 +1,10 @@
 ## Hi, I’m Zach! 👋
 
-🍹 Former hospitality pro now serving data insights instead of cocktails <br>
+🍹 Former hospitality pro now <br>
 🎓 Google-certified in BI and Data Analytics, with a Full Stack Development certificate from Toronto Metropolitan University <br>
-🛠️ Fluent in SQL, Python, R, Tableau, and Excel <br>
-📊 Into building dashboards, spotting trends, and turning data into visuals that pop <br>
-🌱 Always learning, always experimenting, and excited to grow in BI and analytics <br>
+🛠️ Fluent in SQL, Python, R, Tableau, Excel, and more <br>
+📊 CompTIA A+ Certified <br>
+🌱 Always learning, always experimenting, and excited to grow <br>
 
 ### Skills & Tools:
 
