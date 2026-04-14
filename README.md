@@ -1,21 +1,21 @@
 ## Hi, I’m Zach! 👋
 
-🍹 Former hospitality pro now <br>
+🍹 Former hospitality pro <br>
 🎓 Google-certified in BI and Data Analytics, with a Full Stack Development certificate from Toronto Metropolitan University <br>
+💻 CompTIA A+ Certified <br>
 🛠️ Fluent in SQL, Python, R, Tableau, Excel, and more <br>
-📊 CompTIA A+ Certified <br>
 🌱 Always learning, always experimenting, and excited to grow <br>
 
 ### Skills & Tools:
 
-![SQL](https://img.shields.io/badge/SQL-Querying_&_Analysis-red)
-![Tableau](https://img.shields.io/badge/Tableau-Dashboarding_&_Visualization-orange)
-![Python](https://img.shields.io/badge/Python-Automation_&_Analysis-yellow)
-![pandas](https://img.shields.io/badge/pandas-Exploratory_Analysis-green)
-![matplotlib](https://img.shields.io/badge/matplotlib-Python_Visualization-brightgreen)
-![R](https://img.shields.io/badge/R-Data_Analysis_&_Visualization-lightblue)
-![ggplot2](https://img.shields.io/badge/ggplot2-Data_Visualization-blue)
-![Excel](https://img.shields.io/badge/Excel-Advanced_Functions-teal)
-![Data_Cleaning](https://img.shields.io/badge/Data_Cleaning-Preprocessing-blueviolet)
+![Client_Support](https://img.shields.io/badge/Client_Support-Issue_Resolution_&_Support-blue)
+![Communication](https://img.shields.io/badge/Communication-Stakeholder_Engagement-orange)
+![Troubleshooting](https://img.shields.io/badge/Troubleshooting-Technical_Problem_Solving-yellow)
+![Active_Directory](https://img.shields.io/badge/Active_Directory-User_Management-green)
+![Windows](https://img.shields.io/badge/Windows-OS_Support-brightgreen)
+![Ticketing](https://img.shields.io/badge/Ticketing_Systems-ServiceNow_&_Jira-lightblue)
+![SQL](https://img.shields.io/badge/SQL-Client_Data_Insights-red)
+![Tableau](https://img.shields.io/badge/Tableau-Client_Reporting-blueviolet)
+![Excel](https://img.shields.io/badge/Excel-Reporting_&_Analysis-teal)
 
 [Let's Connect on LinkedIn!](https://www.linkedin.com/in/zachary-ceolin)
